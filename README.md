@@ -235,8 +235,3 @@ The [modules](https://github.com/jaredhanson/passport/wiki/Modules) page on the
 [wiki](https://github.com/jaredhanson/passport/wiki) lists other useful modules
 that build upon or integrate with Passport.
 
-## License
-
-[The MIT License](http://opensource.org/licenses/MIT)
-
-Copyright (c) 2011-2021 Jared Hanson <[https://www.jaredhanson.me/](https://www.jaredhanson.me/)>
